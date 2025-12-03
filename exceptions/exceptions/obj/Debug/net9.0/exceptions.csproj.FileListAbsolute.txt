@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\exceptions\exceptions\exceptions\obj\Debug\net9.0\exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\exceptions\exceptions\exceptions\obj\Debug\net9.0\exceptions.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\exceptions\exceptions\exceptions\obj\Debug\net9.0\exceptions.AssemblyInfo.cs
+C:\Users\Asus\Desktop\exceptions\exceptions\exceptions\obj\Debug\net9.0\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\exceptions\exceptions\exceptions\obj\Debug\net9.0\exceptions.sourcelink.json
