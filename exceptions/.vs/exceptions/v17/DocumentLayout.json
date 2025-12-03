@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{2DC80431-C9D3-4D96-A176-594F46090F8D}|exceptions\\exceptions.csproj|solutionrelative:exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2DC80431-C9D3-4D96-A176-594F46090F8D}|exceptions\\exceptions.csproj|c:\\users\\asus\\desktop\\exceptions\\exceptions\\exceptions\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC80431-C9D3-4D96-A176-594F46090F8D}|exceptions\\exceptions.csproj|solutionrelative:exceptions\\ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2DC80431-C9D3-4D96-A176-594F46090F8D}|exceptions\\exceptions.csproj|c:\\users\\asus\\desktop\\exceptions\\exceptions\\exceptions\\fileread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DC80431-C9D3-4D96-A176-594F46090F8D}|exceptions\\exceptions.csproj|solutionrelative:exceptions\\fileread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ex.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\exceptions\\exceptions\\exceptions\\ex.cs",
+              "RelativeDocumentMoniker": "exceptions\\ex.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\exceptions\\exceptions\\exceptions\\ex.cs",
+              "RelativeToolTip": "exceptions\\ex.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T20:07:31.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "fileRead.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\exceptions\\exceptions\\exceptions\\fileRead.cs",
               "RelativeDocumentMoniker": "exceptions\\fileRead.cs",
@@ -30,8 +47,7 @@
               "RelativeToolTip": "exceptions\\fileRead.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-03T19:52:29.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-03T19:52:29.076Z"
             },
             {
               "$type": "Document",
@@ -41,7 +57,7 @@
               "RelativeDocumentMoniker": "exceptions\\Program.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\exceptions\\exceptions\\exceptions\\Program.cs",
               "RelativeToolTip": "exceptions\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCMAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-03T19:43:34.528Z",
               "EditorCaption": ""

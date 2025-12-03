@@ -2,21 +2,37 @@ using System;
 
 namespace exceptions
 {
-    // 1. Файлу не існує
+    // 1. Помилка: файлу немає
     public class MyMissingFileException : Exception
     {
-        public MyMissingFileException(string fileName) : base(fileName) { }
+        // Оце те, чого не вистачало:
+        public string FileName { get; }
+
+        public MyMissingFileException(string fileName)
+        {
+            FileName = fileName;
+        }
     }
 
-    // 2. Файл є, але дані всередині погані (текст, дроби, мало рядків)
+    // 2. Помилка: погані дані
     public class MyBadDataException : Exception
     {
-        public MyBadDataException(string fileName) : base(fileName) { }
+        public string FileName { get; }
+
+        public MyBadDataException(string fileName)
+        {
+            FileName = fileName;
+        }
     }
 
-    // 3. Дані ок, але результат множення не влазить в int
+    // 3. Помилка: переповнення
     public class MyOverflowException : Exception
     {
-        public MyOverflowException(string fileName) : base(fileName) { }
+        public string FileName { get; }
+
+        public MyOverflowException(string fileName)
+        {
+            FileName = fileName;
+        }
     }
 }
