@@ -3,7 +3,7 @@ using exceptions;
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq; // Треба для .Average()
+using System.Linq; 
 
 namespace exceptions
 { 
